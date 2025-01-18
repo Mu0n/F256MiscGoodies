@@ -19,6 +19,18 @@ Extended, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr2/Extended
 
 6809 https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr2/6809
 
+### K
+
+Classic, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K  
+
+Extended, 
+
+### Jr.
+
+Classic, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr/Classic  
+
+Extended, 
+
 ## Software at https://github.com/Mu0n/F256MiscGoodies/tree/main/apps
 (from https://wiki.f256foenix.com/index.php?title=Software)
 ### Demos
