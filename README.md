@@ -6,19 +6,17 @@ The real solution is to ask of each developper to publish their work, possibly f
 ## FPGA Loads at https://wiki.f256foenix.com/index.php?title=FPGA_Releases
 
 ### K2
-Classic CNTX1, Jan 08 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/K2/CNTX1/2025-01-08/CFP95600C.bin  
+Classic CNTX1, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX1  
 
-Classic CNTX1, Jan 07 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/K2/CNTX1/2025-01-07/CFP95600C.bin   
-
-Extended CNTX2, Jan 07 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/K2/CNTX2/2025-01-07/CFP95616E.bin 
+Extended CNTX2, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX2/
 
 ### Jr2
 
-Classic, Jan 08 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/Jr2/Classic/2025-01-07/F256Jr2_MMU_Jan8th_2025_OPL3.mcs  
+Classic, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr2/Classic  
 
-Extended, Dec 21 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/Jr2/Extended/2024-12-21/F256Jr2_Ext16_Dec21st_2024.mcs  
+Extended, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr2/Extended  
 
-6809, Jan 17 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/Jr2/6809/2025-01-17/F256Jr2_FNX6809_Jan17th_RC0014_0002.mcs
+6809 https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr2/6809
 
 ## Software at https://github.com/Mu0n/F256MiscGoodies/tree/main/apps
 (from https://wiki.f256foenix.com/index.php?title=Software)
