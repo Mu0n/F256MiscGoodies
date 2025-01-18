@@ -5,6 +5,7 @@ Hodge Podge of useful files for the F256 series of computers I couldn't find a w
 
 ### png2raw.py
 
+(more useful scripts can be found at the source https://github.com/cmassat/EffenX/tree/dev/util)
 (by SprySloth) Python script to take png indexed mode files to a format that can be used for the Foenix.  Just make sure in aseprite to import palette from  image with 256 colors and switch the image to index mode. Run the script as  
 
 _python png2raw.py filename.png outputfilename widthInPixels, heightInPixels_  <--This is for each sprite, not the whole image size.   
