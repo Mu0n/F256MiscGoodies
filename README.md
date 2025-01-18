@@ -8,21 +8,21 @@ The real solution is to ask of each developper to publish their work, possibly f
 ### Demos
 fnxmas23 - 2 versions: fnxmas23_latest_OLD_FPGALoad.pgz and fnxmas23_latest_NEW_FPGALoad.pgz
 ### Games
-cosmic-1111.zip
-kartdemo.pgz
+cosmic-1111.zip  
+kartdemo.pgz  
 lk_f256_1.0b19_demo.zip
 ### Game Jam 01
-impasse.pgz
-soccur.pgz (game)
-soccur-2024-04-08.zip (source code)
+impasse.pgz  
+soccur.pgz (game)  
+soccur-2024-04-08.zip (source code)  
 Flight Simulator - broken link, lost software
 ### Music
-EdInHisLib.pgz
-jrtracker.bas (1 PSG with 3 channels)
-JrTracker-Manual.pdf
-xmas.trk (song for jrtracker.bas)
-tracker2.bas (2 PSG with 6 channels)
-goodvib.tr2 (song for tracker2.bas)
+EdInHisLib.pgz  
+jrtracker.bas (1 PSG with 3 channels)  
+JrTracker-Manual.pdf  
+xmas.trk (song for jrtracker.bas)  
+tracker2.bas (2 PSG with 6 channels)  
+goodvib.tr2 (song for tracker2.bas)  
 modo_f256jr.rar
 
 ## Tools at https://github.com/Mu0n/F256MiscGoodies/tree/main/tools
