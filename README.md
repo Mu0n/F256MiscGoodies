@@ -1,7 +1,12 @@
 # F256MiscGoodies
 Hodge Podge of useful files for the F256 series of computers I couldn't find a web source for
 
-## Tools
+## Software at https://github.com/Mu0n/F256MiscGoodies/tree/main/apps
+(from https://wiki.f256foenix.com/index.php?title=Software)
+### Demos
+fnxmas23 (dwsJason and digarok) - 2 versions: fnxmas23_latest_OLD_FPGALoad.pgz and fnxmas23_latest_NEW_FPGALoad.pgz
+
+## Tools at https://github.com/Mu0n/F256MiscGoodies/tree/main/tools
 
 ### png2raw.py
 
