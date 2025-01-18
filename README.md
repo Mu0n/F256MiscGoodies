@@ -8,8 +8,14 @@ The real solution is to ask of each developper to publish their work, possibly f
 ### K2
 Classic CNTX1, Jan 08 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/K2/CNTX1/2025-01-08/CFP95600C.bin OPL3 implemented  
 Classic CNTX1, Jan 07 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/K2/CNTX1/2025-01-07/CFP95600C.bin Instantiation of the UART for the VS1053B (it is exactly like the SAM2695 UART, same code)
-The overall Load will need to be tested but the new thing is the UART for the VS1053B that is located @ $DDB0
+The overall Load will need to be tested but the new thing is the UART for the VS1053B that is located @ $DDB0  
 
+Extended CNTX2, Jan 07 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/K2/CNTX2/2025-01-07/CFP95616E.bin Updated the code to access the WS6100 - Been verified by @gadget 
+Instantiation of the UART for the VS1053B (it is exactly like the SAM2695 UART, same code) (to be tested)
+
+### Jr2
+
+Classic, Jan 08 2025 https://github.com/Mu0n/F256MiscGoodies/blob/main/fpga/Jr2/Classic/2025-01-07/F256Jr2_MMU_Jan8th_2025_OPL3.mcs
 
 ## Software at https://github.com/Mu0n/F256MiscGoodies/tree/main/apps
 (from https://wiki.f256foenix.com/index.php?title=Software)
