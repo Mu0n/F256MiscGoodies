@@ -35,6 +35,7 @@ Extended,
 (from https://wiki.f256foenix.com/index.php?title=Software)
 ### Demos
 fnxmas23 - 2 versions: fnxmas23_latest_OLD_FPGALoad.pgz and fnxmas23_latest_NEW_FPGALoad.pgz
+xmas24_k2 - a version of fnxmas23 that runs on Jr2 and K2 (no hardware machine ID lock out)
 ### Games
 cosmic-1111.zip  
 kartdemo.pgz  
