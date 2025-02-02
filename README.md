@@ -6,10 +6,13 @@ The real solution is to ask of each developper to publish their work, possibly f
 ## FPGA Loads at 
 (from https://wiki.f256foenix.com/index.php?title=FPGA_Releases)  
 
-### K2
+### K2 "Black" (first rev boards sold as K2B in 2024)
 Classic CNTX1, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX1  
 
 Extended CNTX2, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX2/
+
+### K2 "Purple" (release boards sold as K2 in 2025)
+soon
 
 ### Jr2
 
