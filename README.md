@@ -72,3 +72,11 @@ prior step to make it work:
 
 _pip install pillow_
 
+### bmp2LCD.py
+
+this will convert bitmap files to a format that can be sent to the F256K2's LCD screen, which accepts 240x320 images, but the visible part is really 240x280 pixels, with 20 line bands up top and down at the bottom that aren't really visible.
+In order to send the converted binary file to the LCD, consult my other repo for some example C code: https://github.com/Mu0n/F256KsimpleCdoodles
+The bitmap has to be exported as a R5G6B6 palette, this is doable under advanced export options in Gimp, for instance.
+
+_python bmp2LCD.py filename.bmp outputfilename_
+
