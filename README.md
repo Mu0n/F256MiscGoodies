@@ -35,6 +35,8 @@ Classic, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/Jr/Classic
 Extended, 
 
 ## Software at https://github.com/Mu0n/F256MiscGoodies/tree/main/apps
+This is a small collection of software that were simply shared on discord, without having a web based home. After 2 years, embedded files in discord break and become lost. This is my attempt at salvaging as much as I could so that it can be properly linked. The official wiki for the F256 series links to files in this repo as a backup plan. 
+
 (from https://wiki.f256foenix.com/index.php?title=Software)
 ### Demos
 fnxmas23 - 2 versions: fnxmas23_latest_OLD_FPGALoad.pgz and fnxmas23_latest_NEW_FPGALoad.pgz  
@@ -89,3 +91,9 @@ Generate C language arrays for the frequencies needed for notes for the PSG. Wil
 
 Simple sinus look-up table generator. edit away the parameters to have more or less elements, amplitude, etc.
 
+## Documentation and datasheets at https://github.com/Mu0n/F256MiscGoodies/tree/main/datasheets
+
+6581.pdf - for the SID chip 
+VS1053B.pdf - for the VSLI VS1053b (MIDI and mp3) 
+WM8776_v4.1-532420.pdf - for the CODEC responible for mixing audio sources into an audio output 
+yamaha_ymf262.pdf - for the OPL3 
