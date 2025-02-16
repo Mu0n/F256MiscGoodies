@@ -59,6 +59,14 @@ modo_f256jr.rar
 
 ## Tools at https://github.com/Mu0n/F256MiscGoodies/tree/main/tools
 
+### bmp2LCD.py
+
+this will convert bitmap files to a format that can be sent to the F256K2's LCD screen, which accepts 240x320 images, but the visible part is really 240x280 pixels, with 20 line bands up top and down at the bottom that aren't really visible.
+In order to send the converted binary file to the LCD, consult my other repo for some example C code: https://github.com/Mu0n/F256KsimpleCdoodles
+The bitmap has to be exported as a R5G6B6 palette, this is doable under advanced export options in Gimp, for instance.
+
+_python bmp2LCD.py filename.bmp outputfilename_
+
 ### png2raw.py
 
 (more useful scripts can be found at the source https://github.com/cmassat/EffenX/tree/dev/util)
@@ -72,11 +80,12 @@ prior step to make it work:
 
 _pip install pillow_
 
-### bmp2LCD.py
+### PSGvalues.py
 
-this will convert bitmap files to a format that can be sent to the F256K2's LCD screen, which accepts 240x320 images, but the visible part is really 240x280 pixels, with 20 line bands up top and down at the bottom that aren't really visible.
-In order to send the converted binary file to the LCD, consult my other repo for some example C code: https://github.com/Mu0n/F256KsimpleCdoodles
-The bitmap has to be exported as a R5G6B6 palette, this is doable under advanced export options in Gimp, for instance.
+Generate C language arrays for the frequencies needed for notes for the PSG. Will be default use the tone 1 target, so the high nybble of the low frequency will be 8 hex. change to A or C for tone 2 and tone 3.
 
-_python bmp2LCD.py filename.bmp outputfilename_
+
+### sinelookup.py
+
+Simple sinus look-up table generator. edit away the parameters to have more or less elements, amplitude, etc.
 
