@@ -95,6 +95,8 @@ Simple sinus look-up table generator. edit away the parameters to have more or l
 
 6581.pdf - for the SID chip 
 
+ST7789V.pdf - for the Sitronix ST7789 LCD screen in the K2 enclosure.
+
 VS1053B.pdf - for the VSLI VS1053b (MIDI and mp3) 
 
 WM8776_v4.1-532420.pdf - for the CODEC responible for mixing audio sources into an audio output 
