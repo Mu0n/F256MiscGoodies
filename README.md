@@ -95,6 +95,8 @@ Simple sinus look-up table generator. edit away the parameters to have more or l
 
 6581.pdf - for the SID chip 
 
+SAM2695.pdf - for the SAM2695 midi chip from Dream
+
 ST7789V.pdf - for the Sitronix ST7789 LCD screen in the K2 enclosure.
 
 VS1053B.pdf - for the VSLI VS1053b (MIDI and mp3) 
