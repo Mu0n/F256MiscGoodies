@@ -58,6 +58,8 @@ xmas.trk (song for jrtracker.bas)
 tracker2.bas (2 PSG with 6 channels)  
 goodvib.tr2 (song for tracker2.bas)  
 modo_f256jr.rar
+### Tests
+sidtester.bas (tests every voice on SID1)
 
 ## Tools at https://github.com/Mu0n/F256MiscGoodies/tree/main/tools
 
