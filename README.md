@@ -106,3 +106,5 @@ VS1053B.pdf - for the VSLI VS1053b (MIDI and mp3)
 WM8776_v4.1-532420.pdf - for the CODEC responible for mixing audio sources into an audio output 
 
 yamaha_ymf262.pdf - for the OPL3 
+
+wizfi360fug_v124e.pdf - for the WIZnet WizFi360
