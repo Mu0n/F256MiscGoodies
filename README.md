@@ -51,6 +51,7 @@ soccur.pgz (game)
 soccur-2024-04-08.zip (source code)  
 Flight Simulator - broken link, lost software
 ### Music
+digestMidi_v0.1.pgz
 EdInHisLib.pgz  
 jrtracker.bas (1 PSG with 3 channels)  
 JrTracker-Manual.pdf  
