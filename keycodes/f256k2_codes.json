@@ -1,0 +1,184 @@
+[
+  {
+    "name": "F256K2",
+    "author": "Stefany Allaire, Foenix Retro Systems"
+  },
+  [
+    {
+      "c": "#fc9292",
+      "p": "R1"
+    },
+    "\n\n\n\n\n\n←\n\n0x92",
+    {
+      "c": "#cccccc",
+      "a": 5
+    },
+    "0x31\nBLK\n\n\n\n\n1",
+    "0x32\nWHT\n\n\n\n\n2",
+    "0x33\nRED\n\n\n\n\n3",
+    "0x34\nCYN\n\n\n\n\n4",
+    "0x35\nPUR\n\n\n\n\n5",
+    "0x36\nGRN\n\n\n\n\n6",
+    "0x37\nBLU\n\n\n\n\n7",
+    "0x38\nYEL\n\n\n\n\n8",
+    "0x39\n\n\n\n\n\n9",
+    "0x30\n\n\n\n\n\n0",
+    "0x2D\n-",
+    "0x3D\n=",
+    {
+      "c": "#fc9292",
+      "w2": 1.25
+    },
+    "0xB3\nHOME\n\n\n\n\nCLR",
+    {
+      "x": 0.25
+    },
+    "0x92\nDEL\n\n\n\n\nINST",
+    {
+      "c": "#b0a884"
+    },
+    "0x81\nF2\n\n\n\n\nF1"
+  ],
+  [
+    {
+      "c": "#fc9292",
+      "p": "R2",
+      "a": 4,
+      "w": 1.5
+    },
+    "\nTAB\n\n\n\n\n\n\n0x93",
+    {
+      "c": "#cccccc",
+      "a": 5
+    },
+    "0x71\n\n\n\n\n\nQ",
+    "0x77\n\n\n\n\n\nW",
+    "0x65\n\n\n\n\n\nE",
+    "0x72\n\n\n\n\n\nR",
+    "0x74\n\n\n\n\n\nT",
+    "0x79\n\n\n\n\n\nY",
+    "0x75\n\n\n\n\n\nU",
+    "0x69\n\n\n\n\n\nI",
+    "0x6F\n\n\n\n\n\nO",
+    "0x70\n\n\n\n\n\nP",
+    "0x5B\n[\n\n\n\n\n{",
+    "0x5D\n]\n\n\n\n\n}",
+    {
+      "c": "#fc9292",
+      "w": 1.75
+    },
+    "\nRESTORE",
+    {
+      "c": "#b0a884"
+    },
+    "0x83\nF4\n\n\n\n\nF3"
+  ],
+  [
+    {
+      "c": "#fc9292",
+      "p": "R3",
+      "a": 4,
+      "w2": 1.75
+    },
+    "\nSTOP\n\n\n\n\nRUN\n\n0xBC",
+    {
+      "x": 0.75,
+      "c": "#cccccc",
+      "a": 5
+    },
+    "0x61\n\n\n\n\n\nA",
+    "0x73\n\n\n\n\n\nS",
+    "0x64\n\n\n\n\n\nD",
+    "0x66\n\n\n\n\n\nF",
+    "0x67\n\n\n\n\n\nG",
+    "0x68\n\n\n\n\n\nH",
+    "0x6A\n\n\n\n\n\nJ",
+    "0x6B\n\n\n\n\n\nK",
+    "0x6C\n\n\n\n\n\nL",
+    "0x3B\n;\n\n\n\n\n:",
+    "0x27\n'\n\n\n\n\n\"",
+    {
+      "c": "#fc9292",
+      "a": 4,
+      "w": 2.5
+    },
+    "\nRETURN\n\n\n\n\n\n\n0x94",
+    {
+      "c": "#b0a884",
+      "a": 5
+    },
+    "0x85\nF6\n\n\n\n\nF5"
+  ],
+  [
+    {
+      "c": "#fc9292",
+      "a": 4
+    },
+    "\n/F\n\n\n\n\n\n\n0x06",
+    {
+      "w": 1.25
+    },
+    "\nSHIFT\n\n\n\n\n\n\n0x00",
+    {
+      "c": "#CCCCCC",
+      "a": 5
+    },
+    "0x7A\n\n\n\n\n\nZ",
+    "0x78\n\n\n\n\n\nX",
+    "0x81\n\n\n\n\n\nC",
+    "0x76\n\n\n\n\n\nV",
+    "0x62\n\n\n\n\n\nB",
+    "0x6E\n\n\n\n\n\nN",
+    "0x6D\n\n\n\n\n\nM",
+    "0x2C\n,\n\n\n\n\n<",
+    "0x2E\n.\n\n\n\n\n>",
+    "0x2F\n/\n\n\n\n\n?",
+    {
+      "c": "#fc9292",
+      "a": 4,
+      "w": 2
+    },
+    "\nSHIFT\n\n\n\n\n\n\n0x01",
+    {
+      "c": "#b2bd15",
+      "a": 5
+    },
+    "0xB6\n\n\n\n\n\n↑",
+    {
+      "c": "#b0a884"
+    },
+    "0x87\nF8\n\n\n\n\nF7"
+  ],
+  [
+    {
+      "c": "#fc9292",
+      "p": "",
+      "a": 4,
+      "w": 1.25
+    },
+    "\nCTRL\n\n\n\n\n\n\n0x02",
+    {
+      "w": 1.25
+    },
+    "\nLOCK",
+    {
+      "x": 1.5,
+      "c": "#CCCCCC",
+      "a": 5,
+      "w": 6
+    },
+    "0x20",
+    {
+      "x": 2,
+      "c": "#fc9292",
+      "w": 1.25
+    },
+    "0x05\nALT",
+    {
+      "c": "#b2bd15"
+    },
+    "0xB8\n\n\n\n\n\n←",
+    "0xB7\n\n\n\n\n\n↓",
+    "0xB9\n\n\n\n\n\n→"
+  ]
+]
