@@ -109,3 +109,7 @@ WM8776_v4.1-532420.pdf - for the CODEC responible for mixing audio sources into 
 yamaha_ymf262.pdf - for the OPL3 
 
 wizfi360fug_v124e.pdf - for the WIZnet WizFi360
+
+## F256K and F256K2 raw keyboard codes
+
+[keycodes](https://github.com/Mu0n/F256MiscGoodies/tree/main/keycodes)
