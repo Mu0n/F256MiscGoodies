@@ -53,13 +53,13 @@ Flight Simulator - broken link, lost software
 ### Music
 digestMidi_v0.1.pgz
 EdInHisLib.pgz  
-jrtracker.bas (1 PSG with 3 channels)  
+jrtracker.bas (1 PSG with 3 channels, now considered obsolete. find tracker2 in the main wiki at https://wiki.f256foenix.com/index.php?title=Software_for_6502)  
 JrTracker-Manual.pdf  
-xmas.trk (song for jrtracker.bas)  
-tracker2.bas (2 PSG with 6 channels)  
+xmas.trk (song for jrtracker.bas)   
 goodvib.tr2 (song for tracker2.bas)  
 modo_f256jr.rar
 ### Tests
+testsuite.bas (tests video and sound things)
 sidtester.bas (tests every voice on SID1)
 
 ## Tools at https://github.com/Mu0n/F256MiscGoodies/tree/main/tools
