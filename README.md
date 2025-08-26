@@ -11,8 +11,11 @@ Classic CNTX1, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX1
 
 Extended CNTX2, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX2/
 
+6809 CNTX3, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2/CNTX3
+
 ### K2 "Purple" (release boards sold as K2 in 2025)
-soon
+
+6809 CNTX3, https://github.com/Mu0n/F256MiscGoodies/tree/main/fpga/K2Purple/CNTX3
 
 ### Jr2
 
