@@ -46,7 +46,7 @@ fnxmas23 - 2 versions: fnxmas23_latest_OLD_FPGALoad.pgz and fnxmas23_latest_NEW_
 xmas24_k2 - a version of fnxmas23 that runs on Jr2 and K2 (no hardware machine ID lock out)
 ### Games
 cosmic-1111.zip  
-jewelkeeper.pgz
+jewelkeeper.pgz 
 kartdemo.pgz  
 lk_f256_1.0b19_demo.zip
 ### Game Jam 01
