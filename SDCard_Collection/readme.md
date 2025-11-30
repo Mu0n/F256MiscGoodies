@@ -1,6 +1,6 @@
 ## Collection of files (demos, games, apps, utilities)
 
-### SDcurated_MAME_APRIL3rd_2025.zip
+### SDcurated_MAME_NOV30_2025.zip
 Contains a .img image file meant to be used with F256 Mame emulator
 
 ### SDcurated_November30_2025.zip
