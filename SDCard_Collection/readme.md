@@ -13,7 +13,7 @@ This adds a few more .mp3 files in the media/mp3/ folder, couldn't be added to t
 Latest changes (November 30th 2025):
 
 * fm.pgz updated to v1.1b9 from @Micah
-* _apps/rawsidplayer.pgz added from @Mu0n (it's the same as music/opl3snooper.pgz)
+* _apps/rawsidplayer.pgz added from @Mu0n (it's the same as music/rawsidplayer.pgz)
 * _apps/vgmplayer.pgz added from @Mu0n  (it's the same as music/opl3snooper.pgz)
 * core2x/spr128b.pgz 2x core 128 sprite demo from @beethead
 * core2x/newlines.pgz Hardware line demo old vs new from @Mu0n
