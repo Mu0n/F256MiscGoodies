@@ -37,8 +37,8 @@ This adds vgm files in your media/ folder, meant for playback with music/opl3sno
 
 * media/vgm/sshockt.vgm has been added, it's needed for demos/hackGfx.pgz
 
+* music/firejam_v1.5.pgz from @Mu0n has been updated to v1.5
 * music/jrtracker.bas from @econtrerasd has been moved to this location, originally in the root, and now interacts with files in media/trk/ instead of saving and loading from the root directory
-
 * music/tracker2.bas from @econtrerasd has been moved to this location, originally in root and now interacts with files in media/tr2/ instead of saving and loading from the root directory
 
 * toolkit.bas WildBits Graphic Toolkit superbasic program by @econtrerasd added (in the root), and this needs the directories (in the root)
