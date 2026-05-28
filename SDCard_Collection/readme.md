@@ -7,10 +7,12 @@ Contains a .img image file meant to be used with F256 Mame emulator
 This is meant to be unzipped directly into a SD card destined to be used with a real Foenix machine. Just unzip into its root
 
 #### SDCurated_mediaPack.zip
-This adds a few more .mp3 files in the media/mp3/ folder, couldn't be added to the main zip since github has a file size limit. Totally optional, just more examples of mp3 songs that play well.
+This adds a few more .mp3 files in the media/mp3/ folder, meant for playback with music/f256amp
 
+#### SDCurated_mediaPack2.zip
+This adds vgm files in your media/ folder, meant for playback with music/opl3snooper. If you need more vgm files, go to https://opl.wafflenet.com/ and download that whole archive!
 
-Latest changes (May 28th 2026):
+### Latest changes (May 28th 2026):
 
 _apps/midiplayer has been updated to v2.7 from @Mu0n (it's the same as music/cozymidi.pgz)
 _apps/vgmplayer.pgz has been updated to v1.0 from @Mu0n  (it's the same as music/opl3snooper.pgz)
