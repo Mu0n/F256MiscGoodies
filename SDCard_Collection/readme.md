@@ -15,7 +15,7 @@ This adds vgm files in your media/ folder, meant for playback with music/opl3sno
 ### Latest changes (May 28th 2026):
 
 * _apps/midiplayer has been updated to v2.7 from @Mu0n (it's the same as music/cozymidi.pgz)
-* _apps/vgmplayer.pgz has been updated to v1.0 from @Mu0n  (it's the same as music/opl3snooper.pgz)
+* _apps/vgmplayer.pgz has been updated to v1.1 from @Mu0n  (it's the same as music/opl3snooper.pgz)
 
 * core2x/spr128b.pgz has been added from @beethead
 
