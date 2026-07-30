@@ -13,6 +13,7 @@ A small windowed tool for Wildbits retro-computer developers that lets you place
 ### bmp2LCD.py
 
 (kind of old, superseded by WildBits Graphics Converter above)
+
 this will convert bitmap files to a format that can be sent to the F256K2's LCD screen, which accepts 240x320 images, but the visible part is really 240x280 pixels, with 20 line bands up top and down at the bottom that aren't really visible.
 In order to send the converted binary file to the LCD, consult my other repo for some example C code: https://github.com/Mu0n/F256KsimpleCdoodles
 The bitmap has to be exported as a R5G6B6 palette, this is doable under advanced export options in Gimp, for instance.
@@ -22,6 +23,7 @@ _python bmp2LCD.py filename.bmp outputfilename_
 ### png2raw.py
 
 (kind of old, superseded by WildBits Graphics Converter above)
+
 (more useful scripts can be found at the source https://github.com/cmassat/EffenX/tree/dev/util)
 (by SprySloth) Python script to take png indexed mode files to a format that can be used for the Foenix.  Just make sure in aseprite to import palette from  image with 256 colors and switch the image to index mode. Run the script as  
 
