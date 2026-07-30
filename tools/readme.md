@@ -2,6 +2,9 @@
 
 A small windowed tool for Wildbits retro-computer developers that turns an indexed-color PNG image into the raw palette (.pal) and bitmap (.bin) files those machines expect -- or, in K2 Mini-LCD mode, into an R5G6B5 binary for the K2 case's tiny embedded screen.
 
+<img width="1241" height="843" alt="image" src="https://github.com/user-attachments/assets/acaa32c8-0371-499b-9470-438676b9e35f" />
+
+
 ### bmp2LCD.py
 
 this will convert bitmap files to a format that can be sent to the F256K2's LCD screen, which accepts 240x320 images, but the visible part is really 240x280 pixels, with 20 line bands up top and down at the bottom that aren't really visible.
