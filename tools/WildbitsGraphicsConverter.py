@@ -111,18 +111,20 @@ def write_palette_file(img, palette_file, log=print):
 
 
 def build_offset_canvas_indexed(img, target_w, target_h, offset_x, offset_y):
-    """Build a P-mode canvas of size target_w x target_h, with img pasted
-    at (offset_x, offset_y) -- which may be negative, or push the image
-    past the far edge; either way PIL clips it for us. Anything not
-    covered by the source image stays palette index 0. Returns
-    (raw index bytes as bytearray, was_cropped)."""
+    """Build a P-mode canvas of size target_w x target_h, where canvas
+    pixel (x, y) comes from source pixel (x + offset_x, y + offset_y) --
+    i.e. offset is the source-image coordinate that lands at the canvas's
+    top-left corner, matching the crop-window rectangle drawn in the
+    preview. Anything not covered by the source image (offset pushes the
+    window past an edge) stays palette index 0. Returns (raw index bytes
+    as bytearray, was_cropped)."""
     canvas = Image.new("P", (target_w, target_h), color=0)
     canvas.putpalette(img.getpalette() or [0] * 768)
-    ox, oy = round(offset_x), round(offset_y)
-    canvas.paste(img, (ox, oy))
+    canvas.paste(img, (round(-offset_x), round(-offset_y)))
 
-    was_cropped = (ox < 0 or oy < 0 or
-                   ox + img.width > target_w or oy + img.height > target_h)
+    img_w, img_h = img.size
+    was_cropped = (offset_x > 0 or offset_y > 0 or
+                   offset_x + target_w < img_w or offset_y + target_h < img_h)
     return bytearray(canvas.tobytes()), was_cropped
 
 
@@ -214,14 +216,15 @@ def save_tileset_linear(image_path, palette_file, bitmap_file, tile_size, log=pr
 
 def save_lcd_mode(image_path, output_bin, offset_x=0, offset_y=0, log=print):
     """K2 Mini-LCD mode: force the source PNG onto the LCD's native
-    240x320 R5G6B5 buffer at the given offset (vertical dragging only is
-    expected from the GUI, but this accepts any offset)."""
+    240x320 R5G6B5 buffer. (offset_x, offset_y) is the source-image
+    coordinate that lands at the buffer's top-left corner, matching the
+    crop-window rectangle drawn in the preview."""
     img = Image.open(image_path)
     if img.mode != 'RGB':
         img = img.convert('RGB')
 
     canvas = Image.new("RGB", (LCD_WIDTH, LCD_HEIGHT), color=(0, 0, 0))
-    canvas.paste(img, (round(offset_x), round(offset_y)))
+    canvas.paste(img, (round(-offset_x), round(-offset_y-20)))
 
     pixels = canvas.load()
     binary_data = bytearray()
