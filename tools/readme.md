@@ -4,6 +4,11 @@ A small windowed tool for Wildbits retro-computer developers that turns an index
 
 <img width="1241" height="843" alt="image" src="https://github.com/user-attachments/assets/acaa32c8-0371-499b-9470-438676b9e35f" />
 
+### Wildbits Memory Planner
+
+A small windowed tool for Wildbits retro-computer developers that lets you place data objects on a memory map, compact them, resize them, move them. Once you're done, export the list of everything with start address and size. Export a llvm-mos or oscar64 list of #embed or #pragma directives for easy integration in your C project or otherwise.
+
+<img width="2556" height="1388" alt="image" src="https://github.com/user-attachments/assets/7257ed2a-0eab-4a31-ad91-178fddd8ac72" />
 
 ### bmp2LCD.py
 
