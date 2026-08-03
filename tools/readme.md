@@ -1,8 +1,8 @@
-### Wildbits Graphics Converter
+### Wildbits Graphics Converter v1.1
 
-A small windowed tool for Wildbits retro-computer developers that turns an indexed-color PNG image into the raw palette (.pal) and bitmap (.bin) files those machines expect -- or, in K2 Mini-LCD mode, into an R5G6B5 binary for the K2 case's tiny embedded screen.
+A small windowed tool for Wildbits retro-computer developers that turns an indexed-color PNG image into the raw palette (.pal) and bitmap (.bin) files those machines expect -- or, in K2 Mini-LCD mode, into an R5G6B5 binary for the K2 case's tiny embedded screen. Can work with these outputs: bitmap, sprites, tilesets or mini-LCD image.
 
-<img width="1241" height="843" alt="image" src="https://github.com/user-attachments/assets/acaa32c8-0371-499b-9470-438676b9e35f" />
+<img width="1182" height="752" alt="image" src="https://github.com/user-attachments/assets/6a620ae6-4ac5-4d86-93a7-303f868daac4" />
 
 ### Wildbits Memory Planner
 
