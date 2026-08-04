@@ -4,7 +4,7 @@ A small windowed tool for Wildbits retro-computer developers that turns an index
 
 <img width="1182" height="752" alt="image" src="https://github.com/user-attachments/assets/6a620ae6-4ac5-4d86-93a7-303f868daac4" />
 
-### Wildbits Memory Planner
+### Wildbits Memory Planner v1.1
 
 A small windowed tool for Wildbits retro-computer developers that lets you place data objects on a memory map, compact them, resize them, move them. Once you're done, export the list of everything with start address and size. Export a llvm-mos or oscar64 list of #embed or #pragma directives for easy integration in your C project or otherwise.
 
