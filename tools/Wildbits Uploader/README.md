@@ -5,6 +5,9 @@ install. It drives your own `fnxmgr.py` via subprocess -- same protocol
 handling, same `foenixmgr.ini`, same everything you already have working --
 this just gives it buttons and drag-and-drop.
 
+<img width="1451" height="1392" alt="image" src="https://github.com/user-attachments/assets/1f7784e5-56aa-4ea1-b99c-e33b961285bf" />
+
+
 ## Setup
 
 1. Files needed (all in one folder): `wildbits_uploader_gui.py`,
