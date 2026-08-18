@@ -1,3 +1,7 @@
+### Wildbits Uploader v0.6
+
+Serves as a frontend to the FoenixMgr set of python scripts, which use the USB debug cable to run .pgz, .pgx, upload files and reprogram the flash fimrware. Go this [dedicated section](https://github.com/Mu0n/F256MiscGoodies/tree/main/tools/Wildbits%20Uploader) for all the files you need.
+
 ### Wildbits Graphics Converter v1.1
 
 A small windowed tool for Wildbits retro-computer developers that turns an indexed-color PNG image into the raw palette (.pal) and bitmap (.bin) files those machines expect -- or, in K2 Mini-LCD mode, into an R5G6B5 binary for the K2 case's tiny embedded screen. Can work with these outputs: bitmap, sprites, tilesets or mini-LCD image.
