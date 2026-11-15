@@ -3,6 +3,9 @@
 ### SDcurated_MAME_NOV30_2025.zip
 Contains a .img image file meant to be used with F256 Mame emulator
 
+### SDcurated_NOV30_2025.zip
+Contains a .img image file meant to be used with the F256 SD card (unzip into root)
+
 ### SDcurated_May28th_2026.zip
 This is meant to be unzipped directly into a SD card destined to be used with a real Foenix machine. Just unzip into its root
 
