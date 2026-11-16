@@ -4,6 +4,7 @@
 ### LATEST VERSION IS: November 2026
 
 SDcurated_MAME_NOV2026.zip for MAME emulator (also works in Foenijs)
+
 SDcurated_NOV2026.zip to extract to your SD card for your real machine
 
 ### SDcurated_MAME_NOV30_2025.zip
